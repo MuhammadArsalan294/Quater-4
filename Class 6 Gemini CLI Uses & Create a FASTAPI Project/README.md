@@ -158,7 +158,7 @@ To Access FASTAPI ENDPOINTS:
 3 Click on execute
 
 -------------------------------------------
-
+Assignment:
 
 Deposit Module
 
@@ -182,17 +182,3 @@ HOMEWORK:
 
 7.After authenticating from the receiver's account you should be able to see the amount added to the person bank_balance
 
-
-
-
-
-
-
-
-
-
-------------------------------------
-
-1.make a variable name bank balance keep the value 50000
-2.create a POST endpoint in which I am capable of depositing the amount.
-3.Make sure to update my bank_balance after depositng.
